@@ -123,7 +123,7 @@ const PreferenceForm = ({
   };
 
   return (
-    <div className="min-h-screen bg-[#3D8D7A] flex flex-col">
+    <div className="min-h-screen bg-white flex flex-col">
       <div className="flex-1 max-w-4xl mx-auto w-full px-4 py-8">
         <FormProgress
           currentStep={currentStep}
